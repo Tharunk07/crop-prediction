@@ -1,6 +1,6 @@
 flask
 gunicorn
-pickle
+pickle5
 pandas
 scikit-learn
 lightgbm
