@@ -1,1 +1,1 @@
-# crop-prediction
+# crop-prediction model
